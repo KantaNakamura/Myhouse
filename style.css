@@ -6,13 +6,13 @@
 
 @font-face{
     font-family:"myfont";
-    src: url("corporate-site-material/fonts/odstemplik/odstemplik.otf") format("opentype"),url("corporate-site-material/fonts/odstemplik/odstemplikBold.otf") format("opentype")
+    src: url("odstemplik.otf") format("opentype"),url("odstemplikBold.otf") format("opentype")
 }
 
 
 
 .top-img{
-    background-image: url("corporate-site-material/imgs/img01.jpg");
+    background-image: url("img01.jpg");
     background-size:cover;
     background-position:center;
     background-attachment:fixed;
@@ -42,7 +42,7 @@ nav .far{
 }
 
 .night-sky{
-    background-image:url("corporate-site-material/imgs/ff.jpg");
+    background-image:url("ff.jpg");
     padding:200px 0;
     text-align:center;
     background-size:cover;
@@ -52,7 +52,7 @@ nav .far{
 }
 
 #information{
-    background-image:url("corporate-site-material/imgs/fix-bg.jpg");
+    background-image:url("fix-bg.jpg");
     background-size:cover;
     background-position:center;
     background-attachment:fixed;
